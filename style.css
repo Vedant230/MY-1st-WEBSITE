@@ -1,0 +1,25 @@
+h2{
+    color : rgb(255, 60, 0);
+}
+/* *{
+    border:dotted;
+}*/
+.header{
+    background-color: rgb(229, 149, 149);
+    justify-content:center;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2{
+    text-align:center
+}
+p,h3{
+    text-align:center
+}
